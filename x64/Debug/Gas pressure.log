@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(15,15): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(16,15): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(62,26): warning C4305: =: усечение из "double" в "float"
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(66,25): warning C4305: =: усечение из "double" в "float"
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(67,27): warning C4305: =: усечение из "double" в "float"
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(72,26): warning C4305: =: усечение из "double" в "float"
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(121,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Gas pressure.vcxproj -> D:\GasPressure\Gas pressure\x64\Debug\Gas pressure.exe
