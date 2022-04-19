@@ -1,9 +1,57 @@
 ﻿  Source.cpp
-D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(15,15): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
-D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(16,15): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
-D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(62,26): warning C4305: =: усечение из "double" в "float"
-D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(66,25): warning C4305: =: усечение из "double" в "float"
-D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(67,27): warning C4305: =: усечение из "double" в "float"
-D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(72,26): warning C4305: =: усечение из "double" в "float"
-D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(121,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(12,26): warning C4305: инициализация: усечение из "double" в "float"
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(13,28): warning C4305: инициализация: усечение из "double" в "float"
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(14,24): warning C4305: инициализация: усечение из "double" в "float"
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(50,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(51,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(62,1): warning C4305: =: усечение из "double" в "float"
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(75,1): warning C4305: =: усечение из "double" в "float"
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(76,1): warning C4305: =: усечение из "double" в "float"
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(97,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(100,60): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(135,10): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(160,15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(166,15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(185,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(191,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(192,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(198,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(199,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(205,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(233,68): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(233,56): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(241,69): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\GasPressure\Gas pressure\Gas pressure\Source.cpp(241,57): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
   Gas pressure.vcxproj -> D:\GasPressure\Gas pressure\x64\Debug\Gas pressure.exe
